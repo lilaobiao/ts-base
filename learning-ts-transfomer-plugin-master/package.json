@@ -1,0 +1,12 @@
+{
+  "name": "learning-ts-transfomer-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ts-is-kind": "^1.0.0",
+    "typescript": "^2.5.2"
+  }
+}
